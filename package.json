@@ -1,0 +1,21 @@
+{
+  "name": "user-registration-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "knex": "knex"
+  },
+  "keywords": [],
+  "author": "Scott Hurlow <scott.hurlow@galvanize.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "knex": "^0.13.0",
+    "morgan": "^1.8.2",
+    "pg": "^7.0.2"
+  }
+}``
